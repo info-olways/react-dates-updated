@@ -1,6 +1,6 @@
 {
-  "name": "react-dates",
-  "version": "21.8.0",
+  "name": "react-dates-updated",
+  "version": "1.0.0",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
   "scripts": {
@@ -41,14 +41,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-dates/react-dates.git"
+    "url": "git+https://github.com/info-olways/react-dates-updated.git"
   },
-  "author": "Maja Wichrowska <maja.wichrowska@airbnb.com>",
+  "author": "Olways",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-dates/react-dates/issues"
+    "url": "https://github.com/info-olways/react-dates-updated/issues"
   },
-  "homepage": "https://github.com/react-dates/react-dates#readme",
+  "homepage": "https://github.com/info-olways/react-dates-updated#readme",
   "devDependencies": {
     "@babel/cli": "^7.16.8",
     "@babel/core": "^7.16.12",
@@ -134,8 +134,8 @@
   "peerDependencies": {
     "@babel/runtime": "^7.0.0",
     "moment": "^2.18.1",
-    "react": "^0.14 || ^15.5.4 || ^16.1.1",
-    "react-dom": "^0.14 || ^15.5.4 || ^16.1.1"
+    "react": "^0.14 || ^15.5.4 || ^16.1.1 || ^18.0.0",
+    "react-dom": "^0.14 || ^15.5.4 || ^16.1.1 || ^18.0.0"
   },
   "engines": {
     "node": ">=0.10"
